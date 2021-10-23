@@ -5,3 +5,4 @@ Problems in program functionality
 
 2. The video recording does not exceed 13FPS (I think) . Thus the video recording will be very fast because the screenshots are much too rare.
 
+3. To get rid of the ads I installed an ad-blocker.Thus, if you do not have such a program or something similar, an error will appear in the "open_youtube" file.
